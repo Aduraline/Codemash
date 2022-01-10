@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417237310313",
+    "project_id": "facemash-9bead",
+    "storage_bucket": "facemash-9bead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417237310313:android:3447983fbcba86a4dbbbf8",
+        "android_client_info": {
+          "package_name": "com.facemash.clone.facemash_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417237310313-nockdpsaj4347uvh8182o87klcmc2s43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3HVuap1qxoe7KyTECT6HoXADr5JKDBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417237310313-nockdpsaj4347uvh8182o87klcmc2s43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
